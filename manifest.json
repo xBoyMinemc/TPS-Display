@@ -1,19 +1,19 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Please open 『GameTest』",
-        "name": "§e§lTPS-Display for MC 1.18.10+",
-        "uuid": "7033473a-f082-4312-99c3-516322c6a012",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 17, 0 ]
+        "description": "Please open 『GameTest』\u000aO type ‘tps on’ or ‘tps off’ in chatBar for work\u000aO type ‘mspt on’ or ‘mspt off’ in chatBar for work#请点击阅读更多\u000aO 聊天栏输入 ‘tps on’ 或 ‘tps off’\u000aO 聊天栏输入 ‘mspt on’ 或 ‘mspt off’\u000a\u000aO Made By 『xboy Minemc』\u000aO Translate By『云梦梦梦子』  \u000aO https://github.com/xboyMinemc/TPS-Display",
+        "name": "§e§lTPS-Display for MC 1.19.0+",
+        "uuid": "7033473a-f082-4312-99c3-516322c6a013",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 19, 0 ]
     },
     "modules": [
         {
-            "description": "Made By 『xboy Minemc』-『云梦梦梦子』",
-            "type": "javascript",
-            "uuid": "58a77be2-a3fc-41fb-a5d8-516320061807",
-            "version": [0, 0, 1],
-            "entry": "scripts/main.js"
+            "description": "O Translate By『云梦梦梦子』  \u000aO https://github.com/xboyMinemc/TPS-Display",
+            "type": "script",
+            "uuid": "58a77be2-a3fc-41fb-a5d8-516320061808",
+            "version": [0, 0, 2],
+            "entry": "scripts/main/main.js"
         }
     ],
     "dependencies": [
